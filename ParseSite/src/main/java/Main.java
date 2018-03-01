@@ -21,7 +21,7 @@ public class Main {
 
     private static String ID = "make-everything-ok-button";
 
-    private static String PLATFORM = "java -cp";
+    private static String PLATFORM = "Java";
 
     public static void main(String[] args) throws IOException {
 
